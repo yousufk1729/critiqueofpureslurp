@@ -1,2 +1,2 @@
 # critiqueofpureslurp
-personal website
+Personal website (WIP).
